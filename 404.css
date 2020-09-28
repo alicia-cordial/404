@@ -2,7 +2,7 @@
 body
 {
   background: rgb(238,174,202);
-background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+  background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
 }
 
 h1
@@ -11,6 +11,7 @@ h1
     text-align: center;
     font-family: fantasy;
     font-size: 200%;
+    text-shadow: 5px 5px 10px white;
 }
 
 p
@@ -27,7 +28,5 @@ img
 
 .Gif
 {
-    display: flex;
-align-items:  center;   
 margin: 0 auto;
 }
