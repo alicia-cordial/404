@@ -8,10 +8,19 @@ h1
 {
     color: crimson;
     text-align: center;
+    font-family: fantasy;
+    font-size: 200%;
+}
+
+p
+{
+    font-family: monospace;
+    text-align:center;
+    font-size: 150%;
 }
  
-.img
+img
 {
     border-radius: 25px;
-    align-content: center;
+    text-align: center;
 }
