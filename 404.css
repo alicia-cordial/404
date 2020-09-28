@@ -1,3 +1,4 @@
+
 body
 {
   background: rgb(238,174,202);
@@ -22,5 +23,11 @@ p
 img
 {
     border-radius: 25px;
-    text-align: center;
+}
+
+.Gif
+{
+    display: flex;
+align-items:  center;   
+margin: 0 auto;
 }
