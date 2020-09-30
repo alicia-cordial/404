@@ -24,6 +24,45 @@ img
     border-radius: 25px;
 }
 
+header {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+
+li {
+  margin-left: 10px;
+  margin-right: 10px;
+  text-align: right;
+}
+
+a
+{
+    color:gold;
+}
+
+
+a:hover {
+  color: silver;
+}
+
+
+#listeNavTop {
+  display: flex;
+  background-color: black;
+  padding: 20px;
+  font-family: "Space Mono", monospace;
+  border-radius: 25px;
+  
+}
+
 .Gif
 {
 margin: 0 auto;
